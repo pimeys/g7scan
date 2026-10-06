@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyright (C) 2026 Julius de Bruijn
 """Rebuild a Dexcom G7 applicator barcode from the label's printed text.
 
 Juggluco pairs a Dexcom G7 by reading the GS1 DataMatrix on the applicator.

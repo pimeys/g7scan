@@ -65,3 +65,7 @@ right), pairing code exactly 4 characters.
   stays scannable.
 - Every rendering (window, terminal, PNG) is verified by decoding it back
   with [zxing-cpp](https://github.com/zxing-cpp/zxing) and comparing bytes.
+
+## License
+
+GPL-3.0-or-later; see [LICENSE](LICENSE).
